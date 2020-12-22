@@ -9,6 +9,7 @@ public class HelloResponseDto {
     private final String name;
     private final int amount;
 
+    private final String test;
 
 
 
